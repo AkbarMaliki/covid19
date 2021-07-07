@@ -1,0 +1,1 @@
+.scroll{white-space:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch;-ms-overflow-style:-ms-autohiding-scrollbar}.scroll::-webkit-scrollbar{width:7px;height:7px}.scroll::-webkit-scrollbar-track{box-shadow:inset 0 0 5px grey;border-radius:10px}.scroll::-webkit-scrollbar-thumb{background:#5f5656;border-radius:10px}.scroll::-webkit-scrollbar-thumb:hover{background:#5f5656}
